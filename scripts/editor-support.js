@@ -132,7 +132,7 @@ async function applyChanges(event) {
   return false;
 }
 
-function attachEventListners(main) {
+async function attachEventListners(main) {
   [
     'aue:content-patch',
     'aue:content-update',
