@@ -149,7 +149,7 @@ function attachEventListners(main) {
       window.location.reload();
     }
   }));
-  let module = await import('./form-editor-support.js');
+  const module = await import('./form-editor-support.js');
   module.attachEventListners(main);
 }
 
