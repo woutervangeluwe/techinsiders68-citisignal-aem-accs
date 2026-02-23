@@ -5,10 +5,10 @@
     "/content/CitiSignal/headers:/.helix/headers.json",
     "/content/CitiSignal/metadata:/metadata.json",
     "/content/CitiSignal.resource/enrichment/enrichment.json:/enrichment/enrichment.json",
-    "/content/forms/af"
+    "/content/forms/af/:/content/forms/af/"
   ],
   "includes": [
     "/content/CitiSignal/",
-    "/content/forms/af"
+    "/content/forms/af/"
   ]
 }
